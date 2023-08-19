@@ -24,7 +24,7 @@ Release History:
 19th August 2023
 
 
-Initial release of JsonPowerDB related code on GitHub: [Link to GitHub Repository]
+Initial release of JsonPowerDB related code on GitHub:https://github.com/riya231203/code.git
 
 Table of Contents:
 
